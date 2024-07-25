@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack application development
 - 🌱 I’m currently learning advanced datastructures and algorithms
 - 💞️ I’m looking to collaborate on innovative applications and open-source projects
-- 📫 How to reach me: nahili.ansha@mnsu.edu https://www.linkedin.com/in/nahiliansha/
+- 📫 How to reach me: nahili.ansha@mnsu.edu /  https://www.linkedin.com/in/nahiliansha/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I once debugged a complex code issue in my sleep!
 
