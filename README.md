@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, APIs, Database Integration, Web Development**
 
-- 📫 How to reach me **nahili.ansha@mnsu.edu / https://www.linkedin.com/in/nahiliansha/**
+- 📫 How to reach me **nahili.ansha@mnsu.edu / [Linkedin](https://www.linkedin.com/in/nahiliansha/)**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1YAZytc-3-Wc1cMMbvE-VL5Nt6NBpNuNm/view?usp=sharing)**
 
