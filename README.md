@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nahili.ansha@mnsu.edu / [LinkedIn](https://www.linkedin.com/in/nahiliansha/)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1t0laBNuk6rHp8uCEgvIKuDr245txaTFP/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1SfLIoem76kc0_1wmCoZ-8sFX0lEsySKW/view?usp=sharing)**
 
 - 🌐 Visit my Portfolio **[Portfolio](https://nahiliansha4.wixsite.com/nahili-ansha-portfol)**
 
