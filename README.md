@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahili-ansha&label=Profile%20views&color=0e75b6&style=flat" alt="nahili-ansha" /> </p>
 
-- 🌱 I’m currently learning **advanced Data Structures and Algorithm**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on **innovative applications and open-source projects**
 
