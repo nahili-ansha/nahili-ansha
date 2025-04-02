@@ -13,8 +13,6 @@
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1AgeJq4AporYBU4DqrX_ywveuGGtGls4C/view?usp=sharing)**
 
-- 🌐 Visit my Portfolio **[Portfolio](https://nahiliansha4.wixsite.com/nahili-ansha-portfol)**
-
 - ⚡ Fun fact **I once debugged a complex code issue in my sleep!**
 
 <h3 align="left">Connect with me:</h3>
