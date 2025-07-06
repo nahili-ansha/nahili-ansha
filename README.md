@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nahili.ansha@mnsu.edu / [LinkedIn](https://www.linkedin.com/in/nahiliansha/)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1JjhHO2jtd1E6XmmigQ24HAz2RKLKHW2j/view?usp=sharing)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1i9u5bQJkbsCSgGvDtYYnLAUTEvuYN5J9/view?usp=sharing)**
 
 - ⚡ Fun fact **I once debugged a complex code issue in my sleep!**
 
