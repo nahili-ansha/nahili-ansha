@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahili-ansha&label=Profile%20views&color=0e75b6&style=flat" alt="nahili-ansha" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- I’m currently learning **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **innovative applications and open-source projects**
+- I’m looking to collaborate on **innovative applications and open-source projects**
 
-- 💬 Ask me about **Python, APIs, Database Integration, Web Development**
+- Ask me about **Python, APIs, Database Integration, Web Development**
 
-- 📫 How to reach me **nahili.ansha@mnsu.edu / [LinkedIn](https://www.linkedin.com/in/nahiliansha/)**
+- How to reach me **nahili.ansha@mnsu.edu / [LinkedIn](https://www.linkedin.com/in/nahiliansha/)**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1i9u5bQJkbsCSgGvDtYYnLAUTEvuYN5J9/view?usp=sharing)**
+- Know about my experiences **[Resume](https://drive.google.com/file/d/1i9u5bQJkbsCSgGvDtYYnLAUTEvuYN5J9/view?usp=sharing)**
 
-- ⚡ Fun fact **I once debugged a complex code issue in my sleep!**
+- Fun fact **I once debugged a complex code issue in my sleep!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
